@@ -1,14 +1,7 @@
 # Complete Python Course | Learn Python by Doing in 2022
 
-<p align="center">
- <img src="assets/course-image.png" alt="Complete Python Course | Learn Python by Doing in 2022 (Udemy banner image)"></a>
-</p>
 
-<div align="center">
 
-[![Udemy rating 4.6/5](https://img.shields.io/badge/udemy-4.6%2F5-brightgreen)](https://go.tecla.do/cpc) ![GitHub last commit](https://img.shields.io/github/last-commit/tecladocode/complete-python-course) ![Python 3.10](https://img.shields.io/badge/python-3.10-yellow) [![Discord](https://img.shields.io/discord/614395983807250433)](https://discord.gg/78Nvd3p) [![Twitter Follow](https://img.shields.io/twitter/follow/jslvtr?style=social) ](https://twitter.com/jslvtr)
-
-</div>
 
 ---
 
@@ -16,15 +9,9 @@
 
 ## Getting started
 
-Enrol in the course by going to [this link](https://go.tecla.do/cpc).
-
-Then come back here and download the entire repository. If you are familiar with Git, you can use Git to download it. Otherwise, you can download it as a zip file:
-
-![Download repo as a zip file](assets/download-repo-zip.png)
-
 Next, start taking the course at the beginning! You can use the downloaded code files to support you while you go through the course.
 
-I also **strongly recommend** you code while you take the course. A good strategy is:
+
 
 1. Watch the video intently, optionally while taking notes.
 2. Watch again, more quickly, while typing the code together with me.
